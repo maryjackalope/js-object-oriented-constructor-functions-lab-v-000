@@ -1,7 +1,7 @@
 function Scooter (year, color, model){
-  this.year = 2015
-  this.color = red 
-  this.model = swoosh
+  this.year = year
+  this.color = color 
+  this.model = model
 }
 
 function Driver (name, age, experience){
