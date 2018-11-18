@@ -10,7 +10,7 @@ function Driver (name, age, experience){
   this.name = Allison
  
 }
-let Allison = new Driver('Allison', , 'red')
+let Allison = new Driver('Allison', '16 years' , '2 years')
 
 function PickupLocation (address, city){
   
