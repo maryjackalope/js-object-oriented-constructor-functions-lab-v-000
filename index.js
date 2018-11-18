@@ -9,7 +9,7 @@ let swoosh = new Scooter('swoosh', 2017, 'red')
 function Driver (name, age, experience){
   this.name = name 
   this.age = age
-  this.experience = expereience
+  this.experience = experience
  
 }
 let allison = new Driver('Allison', '16 years' , '2 years')
