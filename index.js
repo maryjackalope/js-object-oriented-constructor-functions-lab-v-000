@@ -20,4 +20,4 @@ function PickupLocation (address, city){
   
 }
 
-let 
+let Broadway = new PickupLocation('123 Broadway', 'New York City')
